@@ -1,0 +1,34 @@
+Kanban:
+=> 5 team members.
+=> Kanban is used to assign the task.
+=> plan the task.
+=> Never duplicate the card, two people cannot be assigned to one task.
+=> Don't want one person to do all the work.
+= try to get the ask when it not given.
+=> done is completed and review.
+=> Kanban multiple question from Kanban-> encouraged to use it.
+=> WIP keyword in multiple choice question.
+
+Research Question:
+=> focus on general question on problem.
+=> hypothesis.
+=> Context => who, what, and how might something with this group.
+=> What Dataset?
+=> how other people solved the problem.
+
+PICO- Population Intervention Context Outcomes.
+
+=> yaml file delete it.
+
+=> Not all the papers on global software development. Search papers
+
+
+
+IEEE digital library
+
+
+Questions:
+=> Inclusion must answer the research question.
+=> empirical study in the research.
+=> Exclusion must diff to inclusion, 
+  ex:- no replication of the papers.

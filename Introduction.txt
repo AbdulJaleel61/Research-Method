@@ -1,0 +1,25 @@
+Introduction
+garments company => which data mining tools can mostly likely to respond
+=> Forecast future trends and activities.
+=>Which customer is most likely to respond to the color or style of the 
+  company, why”, and other similar problems. 
+
+
+
+Neural Network model
+
+=> Fuzzy neural network.
+
+Data Preprocessing.
+
+
+Different rules, Options -> Knowledge processing.
+
+
+
+
+
+
+
+Search String
+(("market basket analysis" OR "neural network") AND ("data mining" OR "association rules"))
